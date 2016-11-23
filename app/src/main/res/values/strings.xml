@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DeportesFavoritos</string>
+    <string name="txvMessage">Mensaje</string>
+    <string name="btnOk">Aceptar</string>
+    <string name="txvSportName">Sport name</string>
+</resources>
